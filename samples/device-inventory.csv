@@ -1,0 +1,7 @@
+asset_id,device_type,model,assigned_to,operating_system,backup_status,endpoint_protection,last_verified_utc,follow_up
+DEMO-001,Laptop,ExampleBook 14,Staff A,Windows 11,Not verified,Installed,2026-09-01,Confirm backup evidence
+DEMO-002,Desktop,Office PC B,Staff B,Windows 11,Verified by sample report,Installed,2026-09-01,Check restore-test date
+DEMO-003,Printer,Office Printer C,Shared,Embedded OS,Not applicable,Not applicable,2026-09-01,Record support contact
+DEMO-004,Laptop,ExampleBook 13,Staff C,Unknown,Unknown,Unknown,,Confirm OS and assigned owner
+DEMO-005,Virtual machine,Test VM D,IT team,Ubuntu Linux,Unknown,Not assessed,2026-09-01,Confirm snapshot and backup policy
+DEMO-006,Network switch,Test Switch E,IT team,Network OS,Configuration export unknown,Not applicable,2026-09-01,Confirm approved configuration backup
